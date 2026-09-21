@@ -16,7 +16,7 @@ Note that empty lecture entries indicate that the previous topic continues into 
 | 10/2/2026 |  | Design patterns contd. |  |  |
 | 10/5/2026 |  |  |  |  |
 | 10/7/2026 | [Java annotations and reflection](slides/Reflection.pdf) | Annotations and Runtime reflection |  |  |
-| 10/9/2026 |  | HOLIDAY |  |  |
+| 10/9/2026 |  |  |  |  |
 | 10/12/2026 |  | Case study: Redis Persistence Framework | [Are design patterns missing language features?](https://wiki.c2.com/?AreDesignPatternsMissingLanguageFeatures) |  |
 | 10/14/2026 |  | Java Dynamic proxies |  |  |
 | 10/16/2026 |  |  |  |  |
