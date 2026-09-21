@@ -40,12 +40,12 @@ Knowledge of databases (SQL or otherwise) will not be assumed, but will be helpf
 | **Information**          | **Details**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Instructor**      | Tapti Palit (tpalit@ucdavis.edu)                                                 |
-| **TA**              | Gabe Bai (gabbai@ucdavis.edu)                     |
-| **Lectures**        | MWF 09:00 AM - 09:50 PM in Wellman Hall 226              |
-| **Discussion**      | W 12:10 PM - 1:00 PM in Wellman Hall 234                   |
-| **Piazza**     | https://piazza.com/ucdavis/winter2026/ecs160winter2026/home               |
-| **Instructor Office Hours**    |   [Check Piazza]               |
-| **TA Office Hours** | F 1:00 PM - 3:00 PM in Academic Surge 2359|
+| **TA**              | Liz Voloshin (evoloshin@ucdavis.edu)                     |
+| **Lectures**        | MWF 09:00 AM - 09:50 PM in Wellman Hall 26              |
+| **Discussion**      | W 2:10 PM - 3:00 PM in The Grove (Surge III) 1309                   |
+| **Piazza**     | https://piazza.com/ucdavis/fall2026/ecs160fq2026/home               |
+| **Instructor Office Hours**    |   [TBD]               |
+| **TA Office Hours** | [TBD] |
 
 ### Schedule
 
@@ -62,13 +62,13 @@ Grading will be broken down as follows.
 
 | **Grading component**          | **Weightage**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
-| **Midterm**      | 30%                                                 |
-| **Final**        | 35%                     |
-| **Homework Assignments**  | 20%              |
+| **Midterm**      | 25%                                                 |
+| **Final**        | 30%                     |
+| **Homework Assignments**  | 30%              |
 | **In-class quiz**      | 10%                         |
 | **Readings** | 5%              |
 
-- There will be four homework assignments. The assignments must performed individually, and are designed to give the student hands-on experience with current frameworks and toolchains.
+- There will be 3/4 homework assignments. The assignments must performed individually, and are designed to give the student hands-on experience with current frameworks and toolchains.
 - In-class quizes will consist primarily of multiple-choice questions. We will have 5 quizzes in class - each worth 2% of the grade.
 - We will have 7 readings on Perusall. Students should read the allotted reading and comment directly on the document uploaded. Points will be given for comments, responses, and upvoting others comments.
  Each student will get a grade out of 1 on their engagement for each reading. The bottom 2 grades for each student will be dropped.
@@ -117,7 +117,7 @@ You are, however, not permitted to discuss the assignments with anyone outside o
 
 ### Email policy
 - All questions regarding coursework (homework, exams, quizzes, etc.) should be posted on Piazza
-- When sending emails, please include as the email subject `[W26 ECS 160]` followed by the actual subject line
+- When sending emails, please include as the email subject `[F26 ECS 160]` followed by the actual subject line
 - Please do not use AI when writing emails or Piazza posts
 
 ### Late policy
