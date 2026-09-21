@@ -40,11 +40,11 @@ Knowledge of databases (SQL or otherwise) will not be assumed, but will be helpf
 | **Information**          | **Details**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Instructor**      | Tapti Palit (tpalit@ucdavis.edu)                                                 |
-| **TA**              | Liz Voloshin (evoloshin@ucdavis.edu)                     |
+| **TA**              | Elizabeth Voloshin (evoloshin@ucdavis.edu)                     |
 | **Lectures**        | MWF 09:00 AM - 09:50 PM in Wellman Hall 26              |
 | **Discussion**      | W 2:10 PM - 3:00 PM in The Grove (Surge III) 1309                   |
 | **Piazza**     | https://piazza.com/ucdavis/fall2026/ecs160fq2026/home               |
-| **Instructor Office Hours**    |   [TBD]               |
+| **Instructor Office Hours**    |   W 3 PM - 4 PM in Academic Surge 2087               |
 | **TA Office Hours** | [TBD] |
 
 ### Schedule
