@@ -1,4 +1,4 @@
-# Design Patterns (Total Points: 5, Due Date: Oct 9, 11:59 PM)
+# Design Patterns (Total Points: 5 (5% of grade), Due Date: Oct 9, 11:59 PM)
 
 Clone the repository from the [HW1 handout repository](https://github.com/davsec-teaching/F26-HW1-handout). If you choose to fork it, make sure you mark the fork as **private**.
 
@@ -10,7 +10,7 @@ All submissions must be done on Gradescope.
 ## Part A
 
 Design a `Configuration` class, which contains fields for `appName`, `logLevel`, `maxConnections`, and `debugMode`. The default values for these fields are `ECS160-HW1`, `INFO`, `32`, and `true`. You must, however, ensure that there is a single instance of the `Configuration` class in the application and that the instance
-is accessible from anywhere in the application. You must implement this design in Java, C++, and Python.
+is accessible from anywhere in the application. You must implement this design in Java (0.5 points), C++ (1 point), and Python (1 point).
 
 The following hints might help. For C++,
 
@@ -25,7 +25,7 @@ For Python,
 
 The handout provides a `User` interface with the methods `getName`, `getEmail`, and `setEmail`, and an `AdminUser` class that implements it.
 Add logging to `AdminUser` such that every call to a `User` method must print a line of the form `[LOG] AdminUser.setEmail("alice@ucdavis.edu")` before running the method.
-You must not modify `AdminUser`, and code that already uses a `User` must work unchanged with a logged one. You must implement this design in Java and Python.
+You must not modify `AdminUser`, and code that already uses a `User` must work unchanged with a logged one. You must implement this design in Java (0.5 point) and Python (1 point).
 
 For Python,
 
@@ -46,10 +46,10 @@ Compilers and interpreters commonly represent programs as an Abstract Syntax Tre
 Many operations, such as evaluation, type checking, and printing, may need to run over the same AST.
 
 Your goal is to implement an "evaluator" for this AST. Adding a new operation later must not require changing any of the node classes. You can assume that all nodes are integers.
-Make sure that your design can detect at compile time, when a new operation is defined, but not handled. For example, imagine you add a new "modulo" operation, but your evaluator does 
+Make sure that your design can detect at compile time, when a new operation is defined, but not handled. For example, imagine you add a new "modulo" operation, but your evaluator does
 not handle it yet. In that case, the compiler should throw an error.
 
-First implement this design in Java.
+First implement this design in Java (1 point).
 
 ### Extra credit: Rust (1 point)
 
