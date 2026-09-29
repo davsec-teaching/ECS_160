@@ -55,3 +55,6 @@ First implement this design in Java (1 point).
 
 Implement the same evaluator in Rust. Instead of trying to replicate the Java design in Rust, first check whether Rust has a language feature that gives you most
 of what the design pattern provides. Your solution should still guarantee that when a new node type is added, the compiler points out every operation that doesn't handle it yet.
+
+If you do not know Rust but still want to attempt this homework, you can quickly skim through chapters 1-6 from the [Rust book](https://doc.rust-lang.org/book/), with
+more emphasis on Chapter 6.
