@@ -25,7 +25,7 @@ For Python,
 
 The handout provides a `User` interface with the methods `getName`, `getEmail`, and `setEmail`, and an `AdminUser` class that implements it.
 Add logging to `AdminUser` such that every call to a `User` method must print a line of the form `[LOG] AdminUser.setEmail("alice@ucdavis.edu")` before running the method.
-You must not modify `AdminUser`, and code that already uses a `User` must work unchanged with a logged one. You must implement this design in Java (0.5 point) and Python (1 point).
+For the Java version, you must not modify `AdminUser`, and code that already uses a `User` must work unchanged with a logged one. You must implement this design in Java (0.5 point) and Python (1 point).
 
 For Python,
 
