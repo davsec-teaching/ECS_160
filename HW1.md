@@ -10,7 +10,7 @@ All submissions must be done on Gradescope.
 ## Part A
 
 Design a `Configuration` class, which contains fields for `appName`, `logLevel`, `maxConnections`, and `debugMode`. The default values for these fields are `ECS160-HW1`, `INFO`, `32`, and `true`. You must, however, ensure that there is a single instance of the `Configuration` class in the application and that the instance
-is accessible from anywhere in the application. You must implement this design in Java (0.5 points), C++ (1 point), and Python (1 point).
+is accessible from anywhere in the application. You must implement this design in Java (0.5 points), C++ (1 point), and Python (1 point). If you cannot implement the design pattern completely in any of the languages, you must explain why in a README.md. 
 
 The following hints might help. For C++,
 
@@ -25,7 +25,7 @@ For Python,
 
 The handout provides a `User` interface with the methods `getName`, `getEmail`, and `setEmail`, and an `AdminUser` class that implements it.
 Add logging to `AdminUser` such that every call to a `User` method must print a line of the form `[LOG] AdminUser.setEmail("alice@ucdavis.edu")` before running the method.
-For the Java version, you must not modify `AdminUser`, and code that already uses a `User` must work unchanged with a logged one. You must implement this design in Java (0.5 point) and Python (1 point).
+For the Java version, you must not modify `AdminUser`, and code that already uses a `User` must work unchanged with a logged one. You must implement this design in Java (0.5 point) and Python (1 point). If you cannot implement the design pattern completely in any of the languages, you must explain why in a README.md. 
 
 For Python,
 
