@@ -31,7 +31,7 @@ For Python,
 
 - Python has built-in syntax for [decorators](https://realpython.com/primer-on-python-decorators/) (`@log`). You must use it.
 - [`functools.wraps`](https://docs.python.org/3/library/functools.html#functools.wraps) keeps a wrapped method's name, which you need to print the log line.
-- Is there any disadvantage to using Python's decorator annotation over implementing the pattern yourself? Write your answer in a `Solution.md` file.
+- Is there any disadvantage to using Python's decorator annotation over implementing the pattern yourself? Write your answer in a `README.md` file.
 
 ## Part C
 
