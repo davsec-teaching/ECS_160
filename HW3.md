@@ -1,4 +1,4 @@
-# ECS160-HW2
+# ECS160-HW3
 
 #### _(Start date: ) Nov 1, 2026_
 #### _(Due date: ) Nov 20, 2026_
@@ -126,7 +126,7 @@ Set your API key as an environment variable:
 export GOOGLE_API_KEY="your-api-key-here"
 ```
 
-Use the `gemini-2.0-flash` model from within the hashtagging microservice to generate hashtags. Sample code:
+Use the latest `gemini-flash` model from within the hashtagging microservice to generate hashtags. Sample code:
 
 ```python
 from google import genai
