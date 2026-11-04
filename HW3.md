@@ -126,7 +126,7 @@ Set your API key as an environment variable:
 export GOOGLE_API_KEY="your-api-key-here"
 ```
 
-Use the latest `gemini-flash` model from within the hashtagging microservice to generate hashtags. Sample code:
+Feel free to use any of the current Gemini models from within the hashtagging microservice to generate hashtags. Sample code:
 
 ```python
 from google import genai
